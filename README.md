@@ -1,2 +1,2 @@
-# assets
-Logos, images, templates etc.
+# Assets
+A central place to store shared logos, images, templates etc.
